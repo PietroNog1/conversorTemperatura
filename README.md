@@ -1,4 +1,4 @@
-# conversorTemperatura
+# Conversor Temperatura
 Conversor de Temperatura 
 <h2>O que foi usado</h2>
 <ul>
