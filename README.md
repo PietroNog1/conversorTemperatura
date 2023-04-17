@@ -17,3 +17,5 @@ Conversor de Temperatura
 <li>IF-ELSE IF-ELSE</li>
 <li>FUNCTION</li>
 </ul>
+<p>Equações de Conversão de Temperaturas</p>
+<p>Veja as <a href="[https://www.freecodecamp.org/](https://brasilescola.uol.com.br/matematica/equacoes-matematicas-na-conversao-temperaturas.htm)" target="_blank">Conversão de Temperaturas</a>.</p>
